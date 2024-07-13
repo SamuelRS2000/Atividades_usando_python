@@ -1,1 +1,1 @@
-Algumas atividades nas quais utilizei Python como auxílio
+Algumas atividades nas quais utilizei Python como auxílio, explorando diversas bibliotecas.
